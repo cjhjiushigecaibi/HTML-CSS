@@ -1,0 +1,14 @@
+.window1
+{
+	float:left;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    width:500px;
+    height:300px;
+}
+.window2
+{
+	padding: 10px;
+	float:left;
+	width:500px;
+}
