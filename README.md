@@ -9,4 +9,4 @@
 网页围绕人工智能这一新兴科学，对其发展的历史，取得的成果和前景三个方面进行了介绍和阐释。
 
 一、网页总体布局
-![]https://github.com/CofJus/HTML-CSS/raw/master/demo/images/网页布局.png
+![image]https://github.com/CofJus/HTML-CSS/raw/master/demo/images/网页布局.png
